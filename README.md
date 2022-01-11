@@ -13,4 +13,4 @@ It does NOT use timers! The player proceeds though the dialogue, by pressing ui_
 
 Have Fun and let the Game begin!
 
-Mithos Moon january 2022
+Mithos Moon 2022
