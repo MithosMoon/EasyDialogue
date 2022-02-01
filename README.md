@@ -1,6 +1,8 @@
 # EasyDialogue
 Easy to learn and modify dialogue system for Godot Game Engine
 
+MIT
+
 Installing and using
 
 The EasyDialogue_addon must be in the root of your Project.
